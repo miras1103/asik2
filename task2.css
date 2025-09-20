@@ -1,0 +1,118 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+}
+
+.div1 {
+  background-color: rgb(0, 0, 61);
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading1 {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+}
+
+.nav {
+  background-color: #191953;
+  height: 50px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tasks {
+  margin: 10px;
+  padding: 5px;
+  color: #ffffff;
+  text-decoration: none;
+  transition: 0.2s;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.tasks:hover {
+  background-color: rgb(105, 105, 105);
+  border: 2px solid rgb(77, 77, 77);
+  color: rgb(0, 0, 0);
+}
+
+.heading2 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin: 5px auto;
+}
+
+.albert {
+  margin: 20px 0px 0px 0px;
+  height: 320;
+  width: 240;
+}
+
+.albertbg {
+  background-color: rgb(255, 255, 255);
+  width: 1200px;
+  height: 500px;
+  text-align: center;
+  margin: 30px auto;
+}
+
+.p {
+  font-style: italic;
+  font: size 100px;
+  color: rgb(0, 0, 0);
+  margin: 30px 80px 20px;
+}
+
+.div2 {
+  background-color: rgb(255, 255, 255);
+  height: 200px;
+  width: 1200px;
+  margin: auto;
+  padding: 12px 0px;
+}
+
+.li {
+  margin: 5 auto;
+}
+
+.div3 {
+  background-color: rgb(255, 255, 255);
+  height: 200px;
+  width: 1200px;
+  margin: 20px auto;
+  padding: 12px 0px;
+}
+
+.h2 {
+  padding: 15 15;
+  margin: 0;
+}
+
+.bottom {
+  background-color: rgb(0, 0, 61);
+  height: 110px;
+  text-align: center;
+  padding-top: 30px;
+  margin: 20px auto;
+}
+
+.header {
+  color: white;
+}
+
+.href {
+  margin: 0 20;
+  padding: 0 10;
+}
+
+.href:hover {
+  background-color: rgb(160, 160, 160);
+  border: 2px solid rgb(107, 107, 107);
+  color: rgb(255, 255, 255);
+}
